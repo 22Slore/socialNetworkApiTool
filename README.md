@@ -41,4 +41,4 @@ N/A
 ![Screenshot](Capture999.PNG)
   
 ## Walkthrough Video
-  https://clipchamp.com/watch/NR6930TcgO4
+https://clipchamp.com/watch/15yJFUfE0FV
