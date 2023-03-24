@@ -38,5 +38,5 @@ N/A
 N/A
   
 ## Screenshots
-[!screenshot src='Capture999.png']
+![ScreenShot](Capture999.jpg)
   
